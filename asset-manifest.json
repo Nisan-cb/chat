@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/chat/static/css/main.bdf71631.chunk.css",
-    "main.js": "/chat/static/js/main.fae8787b.chunk.js",
-    "main.js.map": "/chat/static/js/main.fae8787b.chunk.js.map",
-    "runtime-main.js": "/chat/static/js/runtime-main.8af840b7.js",
-    "runtime-main.js.map": "/chat/static/js/runtime-main.8af840b7.js.map",
-    "static/js/2.fe384992.chunk.js": "/chat/static/js/2.fe384992.chunk.js",
-    "static/js/2.fe384992.chunk.js.map": "/chat/static/js/2.fe384992.chunk.js.map",
-    "index.html": "/chat/index.html",
-    "static/css/main.bdf71631.chunk.css.map": "/chat/static/css/main.bdf71631.chunk.css.map",
-    "static/js/2.fe384992.chunk.js.LICENSE.txt": "/chat/static/js/2.fe384992.chunk.js.LICENSE.txt"
+    "main.css": "/webchat/static/css/main.bdf71631.chunk.css",
+    "main.js": "/webchat/static/js/main.fae8787b.chunk.js",
+    "main.js.map": "/webchat/static/js/main.fae8787b.chunk.js.map",
+    "runtime-main.js": "/webchat/static/js/runtime-main.d6b77b75.js",
+    "runtime-main.js.map": "/webchat/static/js/runtime-main.d6b77b75.js.map",
+    "static/js/2.00049aff.chunk.js": "/webchat/static/js/2.00049aff.chunk.js",
+    "static/js/2.00049aff.chunk.js.map": "/webchat/static/js/2.00049aff.chunk.js.map",
+    "index.html": "/webchat/index.html",
+    "static/css/main.bdf71631.chunk.css.map": "/webchat/static/css/main.bdf71631.chunk.css.map",
+    "static/js/2.00049aff.chunk.js.LICENSE.txt": "/webchat/static/js/2.00049aff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8af840b7.js",
-    "static/js/2.fe384992.chunk.js",
+    "static/js/runtime-main.d6b77b75.js",
+    "static/js/2.00049aff.chunk.js",
     "static/css/main.bdf71631.chunk.css",
     "static/js/main.fae8787b.chunk.js"
   ]
